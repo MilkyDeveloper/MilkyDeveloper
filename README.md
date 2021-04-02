@@ -44,6 +44,7 @@
 
 ### Quick note about JS Frameworks
 > *Warning*: Controversial Topic
+
 Many say that you need to use React, Vue, or Angular to build a proper Dynamic Web App. I simply don't get it: why do I need a **500mb+** of NPM modules with tiny pieces of code in them? I would rather just code in normal JS, or use Svelte, which has a very appealing and simple syntax.
 
 ![Bottom waves](https://raw.githubusercontent.com/MilkyDeveloper/dump/main/wave-bottom.svg)
